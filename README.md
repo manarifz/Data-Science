@@ -1,2 +1,2 @@
 # Master of Data Science & Analytics
-Course subjects : Data Science, Data Mining, Business Analytics & Mathematical Statistics with Computing 
+Course Subjects Semester 1 : Data Science, Data Mining, Business Analytics & Mathematical Statistics with Computing 
