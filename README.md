@@ -1,4 +1,4 @@
-# Project 2 Data Science : Socioeconomic Determinants of Poverty in Malaysia: Insights from Income and Expenditure Trends
+# Project 2 Data Science : Socioeconomic Determinants of Poverty in Malaysia
 
 ## **Introduction** 
 
