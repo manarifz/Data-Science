@@ -8,7 +8,7 @@ For example, 41% of households in low-cost flats in Kuala Lumpur were below the 
 
 Additionally, the national Poverty Line Income (PLI) for 2022 was set at RM2,589, an increase from RM2,208 in 2019, reflecting the government's efforts to align the poverty threshold with the current cost of living (Dewan Ekonomi). Overall, while improvements have been made on the poverty rate in Malaysia, ongoing efforts are necessary to ensure the well-being of all segments of society, especially the vulnerable. 
 
-The United Nations' Sustainable Development (SDG) Goal 1 aims to eradicate extreme poverty globally by 2030, targeting individuals living on less than $2.15 a day.  Factors contributing to poverty in Malaysia include disparities in income distribution, limited access to quality education and healthcare, and inadequate basic amenities in certain regions. Additionally, economic vulnerabilities such as fluctuations in agricultural productivity and external economic shocks can exacerbate poverty levels. 
+One of the United Nations' Sustainable Development Goal (SDGs) is to eradicate extreme poverty globally by 2030, targeting individuals living on less than $2.15 a day.  Factors contributing to poverty in Malaysia include disparities in income distribution, limited access to quality education and healthcare, and inadequate basic amenities in certain regions. Additionally, economic vulnerabilities such as fluctuations in agricultural productivity and external economic shocks can exacerbate poverty levels. 
 
 ## **Problem Statement**
 
